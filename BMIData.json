@@ -1,0 +1,26 @@
+{
+    "1": {
+        "BMICategory": "UnderWeight",
+        "HealthRisk": "Malnutrition risk"
+    },
+    "18.5": {
+        "BMICategory": "Normal Weight",
+        "HealthRisk": "Low risk"
+    },
+    "25": {
+        "BMICategory": "Overweight",
+        "HealthRisk": "Enhanced risk"
+    },
+    "30": {
+        "BMICategory": "Moderately obese",
+        "HealthRisk": "Medium risk"
+    },
+    "35": {
+        "BMICategory": "Several obese",
+        "HealthRisk": "High"
+    },
+    "40": {
+        "BMICategory": "Very Severaly obese",
+        "HealthRisk": "Very High risk"
+    }
+}

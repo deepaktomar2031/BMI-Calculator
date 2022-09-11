@@ -1,0 +1,22 @@
+{
+  "name": "backend_task_v",
+  "version": "1.0.0",
+  "description": "BackEnd task to calculate the BMI based upon given conditions",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomar123/backend_task_V.git"
+  },
+  "keywords": [],
+  "author": "Deepak Tomar",
+  "license": "ISC",
+  "homepage": "https://github.com/tomar123/backend_task_V#readme",
+  "dependencies": {
+    "experss": "^0.0.1-security",
+    "morgan": "^1.10.0"
+  }
+}
