@@ -1,10 +1,10 @@
-# backend_task_V
+# BMI-Calculator
 
 In order to run the project, execute the following commands :
 1. Clone the Repo
-2. npm i OR npm install
-3. npm run dev
-4. Hit the API End Point http://127.0.0.1:8080/getBMI OR http://localhost:8080/getBMI
+2. `npm install`
+3. `npm run dev`
+4. Hit the API End Point http://127.0.0.1:8000/getBMI OR http://localhost:8000/getBMI
 
 
 BMI = Mass / (Height^2)

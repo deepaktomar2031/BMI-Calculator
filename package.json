@@ -1,10 +1,10 @@
 {
-  "name": "backend_task_v",
-  "version": "1.0.0",
-  "description": "BackEnd task to calculate the BMI based upon given conditions",
+  "name": "bmi-calculator",
+  "version": "2.0.1",
+  "description": "BMI Calculator to calculate the BMI based on Gender, Height & Weight",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js",
+    "dev": "nodemon src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,7 +16,10 @@
   "license": "ISC",
   "homepage": "https://github.com/tomar123/backend_task_V#readme",
   "dependencies": {
-    "experss": "^0.0.1-security",
+    "express": "^4.19.2",
     "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
   }
 }

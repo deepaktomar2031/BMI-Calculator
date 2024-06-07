@@ -1,5 +1,5 @@
-let InputData = require('../InputData.json');
-let BMIData = require('../BMIData.json');
+let InputData = require('../seedData/InputData.json');
+let BMIData = require('../seedData/BMIData.json');
 let overWeight = 0;
 
 const calculateBMI = async (req, res) => {
